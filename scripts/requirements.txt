@@ -1,0 +1,3 @@
+# Python deps for scripts/generate-brand-assets.py
+cairosvg
+pillow
